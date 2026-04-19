@@ -60,7 +60,7 @@ Design and implement an SDN-based access control system that allows only authori
 
 ## 📸 Output Screenshot
 
-See `result.png`
+See `/screenshots/result.png`
 
 ---
 
