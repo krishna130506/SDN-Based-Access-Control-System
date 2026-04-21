@@ -64,6 +64,22 @@ See `/screenshots/result.png`
 
 ---
 
+## 📊 Performance Analysis
+
+### Latency Test
+Command:
+    h1 ping -c 5 h2
+
+Observation:
+- Average latency observed in milliseconds
+
+### Throughput Test
+Command:
+    iperf
+
+Observation:
+- Bandwidth measured between hosts
+
 ## ✅ Conclusion
 
 The SDN controller successfully enforces access control policies by dynamically installing flow rules. Unauthorized hosts are effectively isolated while authorized communication is preserved.
